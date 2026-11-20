@@ -10,7 +10,9 @@ In this project I investigated a phishing email from a client and proved the ema
 - KQL campaign scoping
 - phishing triage Aand reporting
 - MITRE ATT&CK mapping
-  
+
+
+# Steps  
 The emails represent Payroll update action required messages that looks like it is from Cloudora HR and links to a portal asking them to confirm their payroll
 details. One employee also forwarded a marketing newsletter in the same batch, unsure whether it is part of the attack.
 Mail 1
