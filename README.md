@@ -1,4 +1,6 @@
 # Phishing-Email-Investigation-with-threat-intel
+The emails represent Payroll update action required messages that looks like it is from Cloudora HR and links to a portal asking them to confirm their payroll
+details. One employee also forwarded a marketing newsletter in the same batch, unsure whether it is part of the attack.
 Mail 1
 <img src="https://github.com/DivineFotabi/Phishing-Email-Investigation-with-threat-intel/blob/8eccf7b887339a2e15a0b58148e091777dfeae8c/Variant%20A.png" /> 
 
