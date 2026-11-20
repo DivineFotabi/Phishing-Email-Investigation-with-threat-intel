@@ -4,3 +4,8 @@ Mail 1
 
 Mail 2
 <img src="https://github.com/DivineFotabi/Phishing-Email-Investigation-with-threat-intel/blob/903f32f4ea24e73eb5b566311bc8a4084957269b/Variant%20B.png" /> 
+
+Mail 3
+<img src="https://github.com/DivineFotabi/Phishing-Email-Investigation-with-threat-intel/blob/c0525d404f34580f4b7306df21166abf2ad55850/Variant%2003b.png" /> 
+
+Mail 4
