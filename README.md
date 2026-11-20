@@ -9,3 +9,4 @@ Mail 3
 <img src="https://github.com/DivineFotabi/Phishing-Email-Investigation-with-threat-intel/blob/c0525d404f34580f4b7306df21166abf2ad55850/Variant%2003b.png" /> 
 
 Mail 4
+<img src="https://github.com/DivineFotabi/Phishing-Email-Investigation-with-threat-intel/blob/ad02c83202cf8e2c08af9f61d63e3077e5efdcc4/Variant%2004.png" /> 
