@@ -15,3 +15,4 @@ Mail 5
 <img src="https://github.com/DivineFotabi/Phishing-Email-Investigation-with-threat-intel/blob/838f39f2c2f1bd94768960cde2f33020e5faf61b/Variant%2005.png" /> 
 
 Mail 6
+<img src="https://github.com/DivineFotabi/Phishing-Email-Investigation-with-threat-intel/blob/ca36582b4fc312705fbf1ddbc54b225dd6365198/Variant%2006.png" /> 
