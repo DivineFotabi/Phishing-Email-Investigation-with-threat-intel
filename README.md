@@ -72,8 +72,8 @@ Buliding a time line for the account
 
 <img src="https://github.com/DivineFotabi/Phishing-Email-Investigation-with-threat-intel/blob/18fd971729b3751838f9d8356ddd9fd348807025/Threat%206.png" /> 
 
-Ryan works normally from London on his iPhone in the morning, submits credentials at 09:05, and at 13:22 the attacker signs in from Amsterdam on a Windows / Chrome device he never uses.Twenty-one minutes later Ryan is back on his own iPhone in London the account is in two countries eighteen minutes apart, which is impossible travel. That clean, first-try foreign success is the fingerprint of a credential-phishing compromise, versus the stack of failures you saw with a password spray
+Ryan works normally from London on his iPhone in the morning, submits credentials at 08:12, and at 13:22 the attacker signs in from Amsterdam on a Windows / Chrome device he never uses.Twenty-one minutes later Ryan is back on his own iPhone in London the account is in two countries eighteen minutes apart, which is impossible travel. That clean, first-try foreign success is the fingerprint of a credential-phishing compromise, versus the stack of failures you saw with a password spray
 
 
-
-
+#### Baseline of accounts
+London on his iOS device, plus the two Amsterdam / Windows rows. No travel pattern, no prior foreign activity. Same verdict as Freya compromised.
