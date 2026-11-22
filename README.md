@@ -57,3 +57,9 @@ Pulling the credential submitters logs we get
 
 <img src="https://github.com/DivineFotabi/Phishing-Email-Investigation-with-threat-intel/blob/15b4e562faec08cdb6c17c6775608be79ab87dc2/Threat%203.png" /> 
 
+Look at Freya Lynn. Her genuine sign-ins are from Manchester in the morning. Then at 10:34 there is a successful sign-in from 198.18.7.200, Amsterdam, on a Windows 11 / Chrome device she has never used about two hours after she submitted her password. That is the attacker logging in with the harvested credential (Valid Accounts, T1078). Impossible travel: Manchester then Amsterdam inside two hours. She is compromised. 
+
+Using new indicator 198.18.7.200 to check for other victims:
+
+
+
