@@ -68,6 +68,12 @@ Two compromised accounts, and one of them is not Freya. ryan.boyd@cloudora.io su
 <img src="https://github.com/DivineFotabi/Phishing-Email-Investigation-with-threat-intel/blob/9177c66918744fda721fe85483b4c5eaad15f435/Threat%205.png" /> 
 One click at 09:05:44 on the variant B link (login.cloudora-hr-portal.example/verify) from his own London IP, CredentialsSubmitted = Yes. His password is compromised.
 
+Buliding a time line for the account
+
+<img src="https://github.com/DivineFotabi/Phishing-Email-Investigation-with-threat-intel/blob/18fd971729b3751838f9d8356ddd9fd348807025/Threat%206.png" /> 
+
+Ryan works normally from London on his iPhone in the morning, submits credentials at 09:05, and at 13:22 the attacker signs in from Amsterdam on a Windows / Chrome device he never uses.Twenty-one minutes later Ryan is back on his own iPhone in London the account is in two countries eighteen minutes apart, which is impossible travel. That clean, first-try foreign success is the fingerprint of a credential-phishing compromise, versus the stack of failures you saw with a password spray
+
 
 
 
