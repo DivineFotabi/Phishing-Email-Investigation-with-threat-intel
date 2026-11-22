@@ -117,7 +117,8 @@ passes SPF, DKIM and DMARC, because it passes for cloudora-hr-portal.example - t
 lookalike domain - not for cloudora.io, and passing authentication only proves the sending domain, not that
 the sender is who they claim to be
 
-#Incident Response
+# Incident Response
+
 #### Executive summary
 On August 25, 2026, a external attacker ran a payroll-themed phishing campaign aimed at 40 Cloudora staff. They pretended to be Cloudora HR and asked people to “confirm their payroll details” on a fake website. There were two approaches: one used a forged cloudora.io address that failed security checks, and another used a convincing lookalike domain that passed authentication for that fake site. Six employees clicked the link, and two entered their passwords. The attacker used those two passwords later that day from an Amsterdam address to sign in to the accounts. The incident was detected the same morning after staff reported the email. Both accounts were secured, the attacker’s access was cut off, the phishing campaign was blocked, and the fake messages were removed from mailboxes. A marketing newsletter reported by one employee was confirmed as legitimate. No fraudulent payments or data exfiltration were found in the logs. Four additional staff had clicked the link but did not enter passwords, and thirty more received the email but did not click. Those individuals are being contacted.
 
