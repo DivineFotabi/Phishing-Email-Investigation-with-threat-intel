@@ -77,3 +77,5 @@ Ryan works normally from London on his iPhone in the morning, submits credential
 
 #### Baseline of accounts
 London on his iOS device, plus the two Amsterdam / Windows rows. No travel pattern, no prior foreign activity. Same verdict as Freya compromised.
+
+<img src="https://github.com/DivineFotabi/Phishing-Email-Investigation-with-threat-intel/blob/aa0aa294d36e5c3d2413794e5622bf7ff32dbedd/threat%207.png" /> 
