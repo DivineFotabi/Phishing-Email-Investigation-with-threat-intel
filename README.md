@@ -32,3 +32,10 @@ Mail 5
 
 Mail 6
 <img src="https://github.com/DivineFotabi/Phishing-Email-Investigation-with-threat-intel/blob/ca36582b4fc312705fbf1ddbc54b225dd6365198/Variant%2006.png" /> 
+
+The mail 5 started the ticket and was recieved by an employee. This raised the alarmsince he noticed it wasn't from the notmal HR address.
+
+### Header analysis
+Mail 1 has got a 'From header' showing the email was from payroll@cloudora.io, a 'Return-Path' payroll@cloudora.io where the notification goes to if mail not delivered and a 'Reply to' as hr-support@cloudora-hr-portal.example where normal replies goes to. This is show a potential red flag as the 'Reply to' header is different from the 'Return-path and the 'From' headers. SPF fail show the domain did not authorised the server for 
+Mail 1 has got a 'From header' showing the email was from payroll@cloudora.io, a 'Return-Path' payroll@cloudora.io where the notification goes to if mail not delivered and a 'Reply to' as hr-support@cloudora-hr-portal.example where normal replies goes to. This is show a potential red flag as the 'Reply to' header is different from the 'Return-path and the 'From' headers. For the Authentication header, SPF fail show the domain did not authorised the server for payroll@cloudora.io to send emails using the cloudora.io domain name. DKIM authenticates teh origin of the email if it was sent from the sent domain but it fail for this. DMARC adds a layer of authentication between the SPF and the DKIM.This fails because the email failed the SPF and the DKIM checks.The recieved header give us the IPaddress of the sender which is '198.18.44.23'
+Email one spoofs the domain cloudora.io and all three authentication failed and it actually came from alook-alike domain
