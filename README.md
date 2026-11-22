@@ -53,5 +53,5 @@ Looking at thosed that clicked the mail we see that six people clicked the mail 
 
 <img src="https://github.com/DivineFotabi/Phishing-Email-Investigation-with-threat-intel/blob/6bfd9bc3ca46d0809be60f55249eb446b7fcfb76/Threat%202.png" /> 
 
-
+Pulling the credential submitters logs we get 
 
