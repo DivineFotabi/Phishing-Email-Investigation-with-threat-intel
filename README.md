@@ -43,3 +43,7 @@ Mail 2 is the second variant and Mail 6 is the first wave copy of the first vari
 The first variant A (mail 1) came from '198.18.44.23' and the second variant of the same variant (mail 6) came from '198.18.44.10' same style of email but different IP addresses this implise one attacker using two different laptops.Variant B mail 2 came from a different IP address '198.18.51.7' and this signifies an email campaign and contains two message template and 3 message servers and one look alike domain. The mail two passes the authentication checks (DKIM,SPF,DMARC) but this does not justify the email is legitiimate is shows the attacker had a legitimate domain registered
 The mail 3 says the newsletter email and the authentication checks all passed maening the cloudora.io domain grants the servers to use it for emailing which is diifferent from the mail 2 authentication checks
 Variant A (mail 1) spoofs the rael domain cloudora.io and fails everything and thats a phish. Variant B is a convincing looking email that passes its own domain so its also a phish, the newsletter passes contains real unsubscribe, real links and thats legitimate.
+
+# Scope
+This entails who clicked and who were those compromised during this attack. The screenshot below shows the delivered events, sender's ip, Dmarc,dkim and spf results, the delivery action. Some showed quarantine that means the failed authentication attempts were intercepted and labelled quarantine. The phish-B passesd all the authentication showing the filter trusted it.
+
