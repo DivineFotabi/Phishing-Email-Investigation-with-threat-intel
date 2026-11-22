@@ -87,3 +87,5 @@ London on his iOS device, plus the two Amsterdam / Windows rows. No travel patte
 the screenshot shows 30 accounts received a delivered phish and did not click. These get user communications and awareness. They include adam.clark@cloudora.io alba.vega@cloudora.io, isla.grant@cloudora.io, james.holt@cloudora.io, joel.kerr@cloudora.io
 jude.ross@cloudora.io, kian.patel@cloudora.io, amelia.frost@cloudora.io,aria.reid@cloudora.io,arjun.mehta@cloudora.io, cole.burke@cloudora.io, daniel.reeve@cloudora.io, dean.page@cloudora.io, ethan.wells@cloudora.io, felix.hart@cloudora.io, finn.gale@cloudora.io, gwen.muir@cloudora.io, leah.stone@cloudora.io, lena.voss@cloudora.io, liam.doyle@cloudora.io, lucas.ford@cloudora.io, mira.shah@cloudora.io, noah.bishop@cloudora.io, olivia.kaur@cloudora.io, omar.farah@cloudora.io, priya.nair@cloudora.io, rhys.owen@cloudora.io, sofia.marino@cloudora.io, tara.kemp@cloudora.io, zara.aziz@cloudora.io, adam.clark@cloudora.io
 
+Some of the reciepients recieved the mail and did not submit credentials
+
