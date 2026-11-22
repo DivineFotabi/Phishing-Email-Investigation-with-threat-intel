@@ -63,6 +63,11 @@ Using new indicator 198.18.7.200 to check for other victims:
 
 <img src="https://github.com/DivineFotabi/Phishing-Email-Investigation-with-threat-intel/blob/fb1c359b40c55113535f1a7c3949d5014cc4c939/Threat%204b.png" /> 
 
+Two compromised accounts, and one of them is not Freya. ryan.boyd@cloudora.io submitted credentials to variant B and was signed into from 198.18.7.200 at 13:22:05 UTC.
+
+<img src="https://github.com/DivineFotabi/Phishing-Email-Investigation-with-threat-intel/blob/9177c66918744fda721fe85483b4c5eaad15f435/Threat%205.png" /> 
+One click at 09:05:44 on the variant B link (login.cloudora-hr-portal.example/verify) from his own London IP, CredentialsSubmitted = Yes. His password is compromised.
+
 
 
 
