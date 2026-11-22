@@ -47,11 +47,11 @@ Variant A (mail 1) spoofs the rael domain cloudora.io and fails everything and t
 # Scope
 This entails who clicked and who were those compromised during this attack. The screenshot below shows the delivered events, sender's ip, Dmarc,dkim and spf results, the delivery action. Some showed quarantine that means the failed authentication attempts were intercepted and labelled quarantine. The phish-B passesd all the authentication showing the filter trusted it.
 
-< img src="https://github.com/DivineFotabi/Phishing-Email-Investigation-with-threat-intel/blob/f7b7f2b9d8501610eeb752e0c3800b8d461dbb63/Threats%2001.png" />
+<img src="https://github.com/DivineFotabi/Phishing-Email-Investigation-with-threat-intel/blob/f7b7f2b9d8501610eeb752e0c3800b8d461dbb63/Threats%2001.png" />
 
 Looking at thosed that clicked the mail we see that six people clicked the mail and two people submitted their credentials
 
-< img src="https://github.com/DivineFotabi/Phishing-Email-Investigation-with-threat-intel/blob/6bfd9bc3ca46d0809be60f55249eb446b7fcfb76/Threat%202.png" /> 
+<img src="https://github.com/DivineFotabi/Phishing-Email-Investigation-with-threat-intel/blob/6bfd9bc3ca46d0809be60f55249eb446b7fcfb76/Threat%202.png" /> 
 
 
 
