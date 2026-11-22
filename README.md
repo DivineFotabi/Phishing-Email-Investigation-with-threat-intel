@@ -61,5 +61,8 @@ Look at Freya Lynn. Her genuine sign-ins are from Manchester in the morning. The
 
 Using new indicator 198.18.7.200 to check for other victims:
 
+<img src="https://github.com/DivineFotabi/Phishing-Email-Investigation-with-threat-intel/blob/fb1c359b40c55113535f1a7c3949d5014cc4c939/Threat%204b.png" /> 
+
+
 
 
