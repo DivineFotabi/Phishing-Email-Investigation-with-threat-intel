@@ -1,7 +1,7 @@
 # Phishing-Email-Investigation-with-threat-intel
 
 # Objective
-In this project I investigated a phishing email from a client and proved the email was a spoof from the header and fail authentication. I mapped the sending infrastructure and the look-alike domain and cleared a legitimate email as a false positive with evidence, then I used the mail message trace and sign-in logs to scope the campaign, identified who clicked and confirmed two compromised accounts from an anonymus foreign sign-in. Then I wrote the incident report and recommended a detection rule to catch it faster.
+In this project I investigated a phishing email from a client and proved the email was a spoof from the header and fail authentication. I mapped the sending infrastructure and the look-alike domain and cleared a legitimate email as a false positive with evidence, then I used the mail message trace and sign-in logs to scope the campaign, identified who clicked and confirmed two compromised accounts from an anonymous foreign sign-in. Then I wrote the incident report and recommended a detection rule to catch it faster.
 
 # Skills 
 - Email header and authentication analysis (SPF/DKIM/DMARC)
